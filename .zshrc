@@ -31,6 +31,7 @@ alias zshreload="source ~/.zshrc"
 alias hostfile="sudo vim /etc/hosts"
 alias server="php -S localhost:8888"
 alias publickey="pbcopy < ~/.ssh/id_rsa.pub"
+alias ll="la -lah"
 
 # Laravel
 alias a="php artisan"
